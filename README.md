@@ -5,7 +5,7 @@ https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/slim/pyt
 Also checkout my new ML project at http://propelml.org/
 
 
-
+## 
 # ResNet in TensorFlow
 
 Implemenation of [Deep Residual Learning for Image
